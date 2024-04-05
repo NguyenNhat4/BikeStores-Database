@@ -1,0 +1,21 @@
+--DML DATA MANIPULATE LANGUAGE 
+
+--40. TẠO 10 ROW DỮ LIỆU VÀO BẢNG KHÁCH HÀNG (sales.customers)
+--41TẠO 3 ROWS DỮ LIỆU VỀ NHÃN HÀNG (production.brands )
+-- 42 TẠO 5 ROWS DỮ LIỆU SẢN PHẨM 
+-- 44. TẠO ĐƠN HÀNG :
+ --A. KHÁCH HÀNG: Kimbery Nieves (id = 1259)
+ --B. CỬA HÀNG: Rowlett Bikes 
+ --C. NHÂN VIÊN : Kall Vargas 
+ --D. ĐƠN HÀNG CÓ 2 SẢN PHẨM 
+		--Surly ECR 27.5 - 2018 (ID= 128), SỐ LƯỢNG 4 GIẢM GIÁ 10% VÀ 
+		--Electra Townie Commute Go! Ladies' - 2018 (id = 199), số lượng 6 , giảm giá 15%
+
+--45. Tạo đơn hàng :
+  -- khách hàng : Cinda Rocha (id=1307)
+  -- Cửa hàng:  BaldWin Bikes
+  -- Nhân viên: Marcelene Boyer 
+  -- Đơn hàng có 3 sản phẩm : 
+		--a.Electra Cruiser Lux 7D - 2018 (id 224), số lượng 1 , giảm giá 5%
+		--b.Trek Farley Carbon Frameset - 2018(id 123),số lượng 1 , giảm giá 5%
+		--c. Trek Powerfly 5 Women's - 2018 (id 2012), số lượng 1, giảm giá 5%  
